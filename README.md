@@ -1,5 +1,8 @@
 ### Hello there 👋
 
+- 🧑🏻‍💻 iOS Team Lead @komoot
+- 💬 Ask me about iOS, Swift, Bash, Python, DevOps, Security
+
 <!--
 **racer1988/racer1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
